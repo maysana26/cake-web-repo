@@ -42,22 +42,10 @@ XAMPP / local server environment
 │   └── database.sql
 │
 └── README.md
-🚀 How to Run the Project Locally
-Install XAMPP or any local server (Apache + MySQL)
 
-Move the project folder into:
 
-htdocs
-Start Apache and MySQL from XAMPP
-Import the database:
-Open phpMyAdmin
-Create a new database
-Import database.sql
 
-Open your browser and go to:
 
-http://localhost/cakes-website
-🎯 Purpose of the Project
 
 This project was created to:
 
